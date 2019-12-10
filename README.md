@@ -14,4 +14,4 @@ The repository includes the following files:
 1. __`main.ipynb`__: 
      > A Jupyter notebook which provides solutions to all the exercises, one by one.
 
-__`Team members: Luca Urban - - `__
+__`Team members: Luca Urban - Dario Cappelli - Shokoufeh Mansouri `__
