@@ -47,5 +47,7 @@ result = nx.Graph()
 for i in range(len(app)):
     result.add_node(app[i][0])
     if i > 0: result.add_edge(app[i][0], app[i][1])
-
-
+colors = ["red"] + (["cyan"] * (len(result.nodes) - 1)); pos = nx.spring_layout(result)
+nx.draw_networkx_nodes(result, pos, node_color = colors)
+nx.draw_networkx_edges(result, pos)
+nx.draw_networkx_labels(result, pos)
