@@ -21,5 +21,11 @@ The repository includes the following files:
      
 5. __`function4.py`__: 
      > A python file that contains all the function needed to produce the solution for the fourth functionality.
+    
+5. __`function4v2.py`__: 
+     > A second version of the function that produces a solution for the fourth functionality.
+     
+6. __`main HM5.ipnynb`__: 
+     > A jupiter notebool file that contains all the functions and the code related to this homework.
 
 __`Team members: Luca Urban - Dario Cappelli - Shokoufeh Mansouri `__
