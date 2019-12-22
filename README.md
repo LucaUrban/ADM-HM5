@@ -1,17 +1,25 @@
-# Homework 5 - 
+# Homework 5 - Explore California and Nevada with graphs
 
-<p align="center">
-<img src="#">
-</p>
-
-Goals of this assignment were:  
+Goals of this assignment were: build a system that provides users with information about roads in California and Nevada.
 
 __`Usage instructions (should you want to execute our notebook):`__
 
-	To check the functionality of the code it is not necessary to get any dataset, you only have to download the folder and run what we wrote to complete each task.
+	To check the functionality of the code you have to download the dataset for thid homework and change the url of the files.
  
 The repository includes the following files:
-1. __`main.ipynb`__: 
-     > A Jupyter notebook which provides solutions to all the exercises, one by one.
+1. __`main.py`__: 
+     > A python file that builds up the apllication and runs it with the query for the user.
+
+2. __`function1.py`__: 
+     > A python file that contains all the function needed to produce the solution for the first functionality.
+     
+3. __`function2.py`__: 
+     > A python file that contains all the function needed to produce the solution for the second functionality.
+
+4. __`function3.py`__: 
+     > A python file that contains all the function needed to produce the solution for the third functionality.
+     
+5. __`function4.py`__: 
+     > A python file that contains all the function needed to produce the solution for the fourth functionality.
 
 __`Team members: Luca Urban - Dario Cappelli - Shokoufeh Mansouri `__
