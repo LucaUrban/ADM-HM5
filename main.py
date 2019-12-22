@@ -3,7 +3,7 @@ import pandas as pd
 import function1 as f1
 import function2 as f2
 import function3 as f3
-import function4 as f4
+import function4v2 as f4
 
 # creation of a pandas dataframe with nodes coordinates
 fileNodes = open("C:\\Users\\asus\\Desktop\\Algoritmic methods for data science\\ADM-HM5\\nodesInformations.co", "r")
